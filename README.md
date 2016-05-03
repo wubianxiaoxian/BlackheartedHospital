@@ -1,5 +1,5 @@
 # BlackheartedHospital
-网传附莆田系医院名单，欢迎更新
+网传附PU tian系医院名单，欢迎更新
 
 #版本1.2beta
 
